@@ -25,7 +25,7 @@ Impressionism_Zemi/
 │ ├──後期印象派の色彩情報について解析.pdf   # 参考論文
 │ ├──解析データ.xlsx                      # 実験の詳細な結果 
 │── jipf_result/                         # Jipf 法則解析の結果画像
-│── python/                              # Python を用いた解析スクリプト
+│── python/                              # Python を用いたCycleGanのスクリプト
 │ ├──cyclegan.ipynb
 │ ├──jikkouGAN.ipynb
 │── src/                                 # C++ で実装された解析コード 
